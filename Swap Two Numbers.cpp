@@ -7,7 +7,7 @@ int main() {
     cin >> X;
     cout << "Enter The Value Of B: ";
     cin >> Y;
-    temp = X;
+    T = X;
     X = Y;
     Y = T;
     cout << "After swap, A = " << X << ", B = " << Y << endl;
