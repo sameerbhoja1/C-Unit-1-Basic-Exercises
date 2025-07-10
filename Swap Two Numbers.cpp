@@ -3,9 +3,9 @@ using namespace std;
 
 int main() {
     int X, Y, T;
-    cout << "Enter The Value Of A: ";
+    cout << "Enter The Value Of X: ";
     cin >> X;
-    cout << "Enter The Value Of B: ";
+    cout << "Enter The Value Of Y: ";
     cin >> Y;
     T = X;
     X = Y;
