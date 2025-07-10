@@ -1,0 +1,11 @@
+include <iostream>
+using namespace std;
+
+int main() {
+    cout << "Size of integer: " << sizeof(int) << " bytes" << endl;
+    cout << "Size of Float Data Type: " << sizeof(float) << " bytes" << endl;
+    cout << "Size of Double Data Type: " << sizeof(double) << " bytes" << endl;
+    cout << "Size of Char Data Type: " << sizeof(char) << " byte" << endl;
+    cout << "Size of Bool: " << sizeof(bool) << " byte" << endl;
+    return 0;
+}
