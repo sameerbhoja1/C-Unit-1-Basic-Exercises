@@ -12,4 +12,5 @@ int main() {
     cout << "After Post Decrement By 1 The Number is : " << num-- << endl;
     cout << "After Pre Decrement By 1 The Number is : " << --num << endl;
     cout << "After Decreasing By 1 The Number is : " << num - 1 << endl;
-    return 0
+    return 0;
+}
